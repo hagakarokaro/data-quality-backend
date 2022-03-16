@@ -1,4 +1,4 @@
-package id.co.nti.bi.neuralbidataquality.entity;
+package id.co.nti.bi.data.quality.backend.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

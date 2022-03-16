@@ -1,4 +1,4 @@
-package id.co.nti.bi.neuralbidataquality.adapter;
+package id.co.nti.bi.data.quality.backend.adapter;
 
 import org.hibernate.QueryException;
 

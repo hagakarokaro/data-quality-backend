@@ -1,4 +1,4 @@
-package id.co.nti.bi.neuralbidataquality.entity;
+package id.co.nti.bi.data.quality.backend.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

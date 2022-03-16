@@ -1,7 +1,7 @@
-package id.co.nti.bi.neuralbidataquality.controller;
+package id.co.nti.bi.data.quality.backend.controller;
 
-import id.co.nti.bi.neuralbidataquality.entity.DataIntegrity;
-import id.co.nti.bi.neuralbidataquality.service.DataIntegrityService;
+import id.co.nti.bi.data.quality.backend.entity.DataIntegrity;
+import id.co.nti.bi.data.quality.backend.service.DataIntegrityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

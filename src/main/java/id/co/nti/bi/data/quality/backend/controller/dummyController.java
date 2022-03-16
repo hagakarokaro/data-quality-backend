@@ -1,6 +1,6 @@
-package id.co.nti.bi.neuralbidataquality.controller;
+package id.co.nti.bi.data.quality.backend.controller;
 
-import id.co.nti.bi.neuralbidataquality.service.dummyService;
+import id.co.nti.bi.data.quality.backend.service.dummyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

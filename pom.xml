@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>id.co.nti.bi</groupId>
-	<artifactId>neural-bi-data-quality</artifactId>
+	<artifactId>data-quality-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>neural-bi-data-quality</name>
+	<name>data-quality-backend</name>
 	<description>Project Data Quality</description>
 	<properties>
 		<java.version>11</java.version>

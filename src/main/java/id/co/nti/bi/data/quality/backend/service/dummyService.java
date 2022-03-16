@@ -1,8 +1,7 @@
-package id.co.nti.bi.neuralbidataquality.service;
+package id.co.nti.bi.data.quality.backend.service;
 
-import id.co.nti.bi.neuralbidataquality.entity.DataIntegrity;
-import id.co.nti.bi.neuralbidataquality.entity.dummy;
-import id.co.nti.bi.neuralbidataquality.repository.dummyRepo;
+import id.co.nti.bi.data.quality.backend.entity.dummy;
+import id.co.nti.bi.data.quality.backend.repository.dummyRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
